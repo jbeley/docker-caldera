@@ -5,7 +5,7 @@ Docker container for caldera APT simulation tool
 
 ## Usage
 ```
- docker run --name cladera -p 8888:8888 jbeley/caldera
+ docker run --name caldera -p 8888:8888 jbeley/caldera
 ```
 
 
